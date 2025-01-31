@@ -166,6 +166,11 @@ body {
   #contact-form button:hover {
     background: #00cc66;
   }
+
+  .a1{
+    display: flex;
+    margin: 5px;
+  }
   
   /* Footer */
   footer {
