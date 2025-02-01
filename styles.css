@@ -167,6 +167,17 @@ nav {
   background: #00cc66;
 }
 
+.socialIcons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.socialIcons a img{
+  width: 40px;
+  height: 40px;
+}
+
 /* Footer */
 footer {
   background: #2c3e50;
@@ -246,7 +257,7 @@ footer {
   #contact-form input, #contact-form textarea {
     padding: 8px;
   }
-
+   
   #contact-form button {
     padding: 8px;
   }
